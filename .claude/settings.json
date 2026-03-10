@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"d:/Dagul/abhinaya-utama/index.html\")",
+      "Bash(node --version)",
+      "Bash(npx vercel --version)",
+      "Bash(npx vercel --yes)"
+    ]
+  }
+}
